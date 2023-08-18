@@ -1,2 +1,2 @@
-# bootcamps_dio
-Projects
+# Repositório dos projetos realizados nos bootcamps DIO
+
